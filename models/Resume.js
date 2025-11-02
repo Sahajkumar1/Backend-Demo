@@ -1,4 +1,4 @@
-import { FileDiff, Linkedin, Phone } from "lucide-react";
+
 import mongoose from "mongoose";
 
 const ResumeSchema = new mongoose.Schema({
